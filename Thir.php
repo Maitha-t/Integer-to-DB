@@ -18,8 +18,8 @@ h1 {
      display: block;
 }
 .center-submit {
-             display: block;
-             margin : 0 auto;
+                         display: block;
+                         margin : 0 auto;
 			 padding:10px;
 			 background-color:#D8BFD8;
 			 color: #FFFFFF;
